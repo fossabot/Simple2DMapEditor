@@ -16,13 +16,16 @@
     </a>
 </p>
 
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FChizer77%2FSimple2DMapEditor.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FChizer77%2FSimple2DMapEditor?ref=badge_large)
-
 ### Background
 注意❗这是一个练习自用的简易2D地图编辑器🗺
+=======
+### 练习 | Background
+注意❗❗
 
-### Usage
+
+这是一个练习自用的简易2D地图编辑器🗺
+
+### 使用 | Usage
 1. 素材大小与地图大小需要进入`src\MapConfig`设置
 
 2. 将[规则贴图素材](exampleImage/mapImage.png "贴图素材")放入`images`文件夹
@@ -34,13 +37,22 @@
 5. 点击保存地图即可获取地图文件`myMap.map`，位置于`src\map`
 
 
-> ### 示例窗口🗔
+> ### 示例窗口🗔 | Example Window
 > ![示例窗口](exampleImage/Run-timePicture.png "示例窗口")
 
-### 素材
+### 素材 | Picture Source
 ![贴图素材](exampleImage/mapImage.png "贴图素材")
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FChizer77%2FSimple2DMapEditor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FChizer77%2FSimple2DMapEditor?ref=badge_shield)
 > 免费素材来源：[KENNEY](www.kenney.nl)
 
 ### LICENSE
 [**MIT**](LICENSE.md)
+=======
+> 免费素材来源：www.kenney.nl
+
+### 许可 | LICENSE
+<details>
+<summary>MIT License</summary>
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FChizer77%2FSimple2DMapEditor.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FChizer77%2FSimple2DMapEditor?ref=badge_large)
+
+</details>
